@@ -1,5 +1,9 @@
 # 🕊️ Hector Ong
 
+**`Digital Craftsman (Developer/Musician/AI Student)`**
+
+I'm a final year computer science student majoring in Artificial Intelligence at Multimedia University Malacca Campus (MMU). Besides developing application and deploying machine learning algorithms for AI tasks, I also enjoy making music covers to share my music with the world.
+
 
 <!--
 **vetoronii/vetoronii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
